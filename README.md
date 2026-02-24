@@ -14,7 +14,7 @@ I love building **real-world scalable applications**, experimenting with **moder
 * 📚 Currently learning:
 
   * Next.js (Production-ready apps)
-  * System Design Basics
+  * AI & ML Fundamentals
   * Advanced Backend Architecture
 * 🎯 Goal: Become a **Product-Focused Engineer**
 
@@ -50,15 +50,6 @@ I love building **real-world scalable applications**, experimenting with **moder
 ---
 
 ## 🚀 Projects
-
-### 🎬 NeonReel – Movie Streaming Web App
-
-> Full-featured streaming UI inspired by modern OTT platforms.
-
-* Responsive UI with Neon Theme
-* Authentication System
-* Watchlist & Categories (Movies / TV / Anime)
-* Built using React + Node + MongoDB
 
 ---
 
